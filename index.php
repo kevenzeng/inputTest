@@ -9,7 +9,6 @@
             width:380px;
             margin:20px auto;
             padding:15px;
-            background-color:#eee;
           border-radius: 15px;
         }
         /** 新增按钮 **/
